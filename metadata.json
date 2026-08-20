@@ -1,0 +1,6 @@
+{
+  "name": "Markov Chain Text Generator",
+  "description": "Interactive statistical text generator using word-level and character-level Markov chains with probability inspection and step-by-step generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
